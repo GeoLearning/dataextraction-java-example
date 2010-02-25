@@ -1,4 +1,4 @@
-package com.geolearning;
+package dataextract;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;
