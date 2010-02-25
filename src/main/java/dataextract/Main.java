@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 public class Main {
-    private static final String BASE_URL = "http://pubservices.geolearning.com/dataextraction";
+    private static final String BASE_URL = "https://services.geolearning.com/dataextraction";
     private static final String DOMAIN = "your_domain";
     private static final String USERNAME = "your_username";
     private static final String PASSWORD = "your_password";
